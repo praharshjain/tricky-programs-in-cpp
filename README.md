@@ -1,2 +1,7 @@
-# tricky-programs-in-cpp
-A collection of cool, tricky and less known C++ programs.
+Tricky programs in C++
+==========
+A collection of cool, tricky and less known C++ programs.  
+
+License
+----------------
+MIT
